@@ -1,0 +1,322 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    margin: 5px;
+    padding: 10px;
+}
+
+.logo {
+    margin-left: 150px;
+    margin-top: -10px;
+}
+
+.logo1 {
+    margin-left: 900px;
+    padding-left: 250px;
+    margin-top: -99px;
+
+}
+
+.slider-box {
+    width: auto;
+    height: 80px;
+    margin-top: -10px;
+    padding: auto;
+}
+
+.slider {
+    width: auto;
+    height: 100px;
+}
+
+.img img {
+    width: 170px;
+    margin-top: 40px;
+    margin-left: 150px;
+    height: 100px;
+    font-size: 20px;
+}
+
+.container {
+    height: 490px;
+
+}
+
+.box {
+    color: #ffffff;
+    margin-left: 190px;
+    margin-top: 5px;
+    padding-top: 10px;
+}
+
+.box h1 {
+    color: yellow;
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+.box h2 {
+    font-size: 45px;
+    margin-top: 10px;
+}
+
+.box h2 b {
+    color: yellow;
+
+}
+
+form {
+    display: inline-grid;
+    margin-left: 1160px;
+
+}
+
+.form {
+    margin-top: -58px;
+}
+
+.p1 {
+    color: #ffffff;
+    font-size: 23px;
+    font-weight: 700;
+    margin-top: -10px;
+    margin-left: -25px;
+}
+
+::placeholder {
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+form input {
+    margin-top: -10px;
+    height: 35px;
+    width: 260px;
+    border-radius: 10px;
+    border: 1px solid #ffffff;
+}
+
+.resn {
+    font-size: 39px;
+    text-align: center;
+    font-weight: 800;
+}
+
+.draft {
+    display: flex;
+    margin-left: 220px;
+    margin-top: 30px;
+}
+
+.box1,
+.box2,
+.box3 {
+    width: 350px;
+    height: 200px;
+    border: 1px solid brown;
+
+    margin: 10px;
+}
+
+.box1 h4,
+.box2 h4,
+.box3 h4 {
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+    color: #aa2028;
+    line-height: 1.1;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.box1 p,
+.box2 p,
+.box3 p {
+    color: #38424d;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.17;
+    text-align: left;
+    margin-top: 8px;
+
+}
+
+.box1:hover {
+    margin-top: -10px;
+    border-top: #ffffff;
+}
+
+.box2:hover {
+    margin-top: -10px;
+    border-top: #ffffff;
+}
+
+.box3:hover {
+    margin-top: -10px;
+    border-top: #ffffff;
+}
+
+.div-div {
+    display: inline-flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    margin-top: 40px;
+    justify-content: center;
+}
+
+.div1 img,
+.div2 img,
+.div3 img,
+.div4 img,
+.div5 img,
+.div6 img,
+.div7 img,
+.div8 img,
+.div9 img,
+.div10 img {
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    margin: 5px;
+    width: 240px;
+}
+
+.section3 {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.new-box {
+    display: inline-flex;
+    margin: 10px;
+}
+
+.new-box img {
+    margin: 20px;
+}
+
+.contain {
+    display: inline-flex;
+    flex-wrap: wrap;
+
+}
+
+.inner-box img {
+    height: 170px;
+    width: 300px;
+}
+
+p {
+    margin-left: 80px;
+    padding-left: 30px;
+    margin-inline-start: 80px;
+
+    font-style: bold;
+}
+
+.text {
+    margin-top: -40px;
+    transform: translate(-50%, -50%);
+    background: rgba(0, 0, 0, 0.7);
+    width: 190px;
+    color: #ffffff;
+}
+
+.boxing {
+    display: inline-flex;
+    height: 250px;
+    margin-top: 50px;
+}
+
+.Paragraph {
+    width: 800px;
+    margin-left: 0px;
+}
+
+.Paragraph h1 {
+    color: #ffffff;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.Paragraph p {
+    box-sizing: content-box;
+    font-size: 16px;
+    color: rgb(235, 224, 224);
+    font-weight: 100;
+    margin-top: 20px;
+    margin-left: 80px;
+    padding-left: 30px;
+    line-height: 25px;
+}
+
+.head {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 50px;
+    font-weight: 900;
+
+}
+
+footer {
+    margin-top: 50px;
+}
+
+footer h1 {
+    text-align: center;
+    font-size: 45px;
+    font-weight: 900;
+}
+
+.slideon {
+    display: inline-flex;
+    margin-top: 40px;
+}
+
+.slideon img {
+    width: 200px;
+    border-radius: 20px;
+    border: 2px solid rgb(236, 230, 230);
+    margin: 10px;
+    margin-left: 30px;
+}
+
+.foot {
+    margin-left: 200px;
+    margin-top: 50px;
+    background-color: rgb(125, 20, 20);
+    width: 990px;
+    height: 320px;
+    margin-top: 70px;
+}
+
+.footimg img {
+    width: 270px;
+    height: 240px;
+    border: 5px solid #919123db;
+    margin-top: -40px;
+    margin-left: -50px;
+}
+
+.boxx {
+    margin-top: -130px;
+    margin-left: 140px;
+    line-height: 25px;
+}
+
+.boxx p {
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+span {
+    color: yellow;
+    margin-left: 150px;
+    margin-top: 60px;
+    font-size: 35px;
+    padding-top: 40px;
+}
